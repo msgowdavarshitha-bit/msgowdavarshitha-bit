@@ -10,9 +10,9 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.org/api?type=transparent&color=timeGradient&height=1&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=1&section=header" width="100%"/>
 
-##  About Me
+## About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260">
 
@@ -37,7 +37,7 @@ class Varshitha:
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.org/api?type=transparent&color=timeGradient&height=1&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=1&section=header" width="100%"/>
 
 ## 🛠️ Featured Work
 
@@ -110,8 +110,7 @@ CRUD app for organizing and instantly retrieving keyboard shortcuts.
 </tr>
 </table>
 
-
-<img src="https://capsule-render.vercel.org/api?type=transparent&color=timeGradient&height=1&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=1&section=header" width="100%"/>
 
 ## 🧰 Tech Stack
 
@@ -125,7 +124,7 @@ CRUD app for organizing and instantly retrieving keyboard shortcuts.
 <img src="https://img.shields.io/badge/Pandas%20%7C%20NumPy-black?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-<img src="https://capsule-render.vercel.org/api?type=transparent&color=timeGradient&height=1&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=1&section=header" width="100%"/>
 
 ## 📊 Live Stats
 
@@ -150,7 +149,7 @@ Until then this line renders nothing.
 <img src="https://raw.githubusercontent.com/msgowdavarshitha-bit/msgowdavarshitha-bit/output/github-contribution-grid-snake.svg" />
 </p>
 
-<img src="https://capsule-render.vercel.org/api?type=transparent&color=timeGradient&height=1&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=1&section=header" width="100%"/>
 
 ## 🏆 Certifications
 
@@ -166,7 +165,7 @@ Until then this line renders nothing.
 
 </details>
 
-<img src="https://capsule-render.vercel.org/api?type=transparent&color=timeGradient&height=1&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=1&section=header" width="100%"/>
 
 <div align="center">
 
@@ -178,8 +177,6 @@ Until then this line renders nothing.
 
 <img src="https://komarev.com/ghpvc/?username=msgowdavarshitha-bit&color=6366F1&style=for-the-badge&label=Profile+Views"/>
 
-
-
-<img src="https://capsule-render.vercel.org/api?type=waving&color=0:EC4899,100:6366F1&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=120&section=footer" width="100%"/>
 
 </div>

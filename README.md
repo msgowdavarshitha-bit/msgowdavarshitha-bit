@@ -110,7 +110,6 @@ CRUD app for organizing and instantly retrieving keyboard shortcuts.
 </tr>
 </table>
 
-> 💡 Pin these 6 repos on your profile (Customize your pins → select) so this table lines up with real cards underneath.
 
 <img src="https://capsule-render.vercel.org/api?type=transparent&color=timeGradient&height=1&section=header" width="100%"/>
 

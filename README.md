@@ -20,10 +20,10 @@
 
 💡 Passionate about:
 
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
 - Full Stack Development
+- Machine Learning
+- Artificial Intelligence
+- Generative AI
 - Building Practical Solutions
 
 🚀 I believe in turning ideas into impactful applications that solve real-world problems.

@@ -179,37 +179,7 @@ Until then this line renders nothing.
 
 <img src="https://komarev.com/ghpvc/?username=msgowdavarshitha-bit&color=6366F1&style=for-the-badge&label=Profile+Views"/>
 
-name: Generate Snake Animation
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs once a day
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: msgowdavarshitha-bit
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push output to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 <img src="https://capsule-render.vercel.org/api?type=waving&color=0:EC4899,100:6366F1&height=120&section=footer" width="100%"/>
 

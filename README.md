@@ -145,6 +145,7 @@ CRUD app for organizing and instantly retrieving keyboard shortcuts.
 🐍 Animated contribution snake — activates automatically once you add the GitHub Action below.
 Until then this line renders nothing.
 -->
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/msgowdavarshitha-bit/msgowdavarshitha-bit/output/github-contribution-grid-snake.svg" />
 </p>
@@ -155,7 +156,7 @@ Until then this line renders nothing.
 
 <details>
 <summary><b>Click to expand</b></summary>
-<br/>
+
 
 - 🎯 Data Analytics Job Simulation — **Deloitte**
 - 🎯 TCS iON Career Edge – Young Professional — **TCS iON**

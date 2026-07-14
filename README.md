@@ -12,7 +12,7 @@
 
 <img src="https://capsule-render.vercel.org/api?type=transparent&color=timeGradient&height=1&section=header" width="100%"/>
 
-## 🧬 About Me
+##  About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260">
 
@@ -21,16 +21,16 @@ class Varshitha:
     def __init__(self):
         self.role = "ML & Full-Stack Developer"
         self.based_in = "Mandya, India"
-        self.education = "B.E. Computer Science — CGPA 8.86"
+        self.education = "B.E. Computer Science { CGPA 8.86 } "
         self.currently = "Exploring Generative AI"
-        self.stack = ["Python", "TensorFlow", "React", "MongoDB"]
+        self.stack = ["Python", "React", "MongoDB" ]
 
     def say_hi(self):
-        return "Let's build something useful together 🚀"
+        return "✨ I teach ideas how to think and dreams how to code."
 ```
 
-- 🎓 Computer Science graduate, Government Engineering College, M H Halli, Hassan
 - 🤖 ML & Generative AI Intern @ **Contriver** — built full-stack ML products from data to deployment
+- 🎓 Computer Science graduate, Government Engineering College, M H Halli, Hassan
 - 🧠 I care more about *shipping working things* than chasing buzzwords
 - 🌱 Currently deepening my Gen AI and system-design skills
 - ⚡ Fun fact: every project below shipped with a measurable efficiency gain

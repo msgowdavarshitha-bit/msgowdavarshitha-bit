@@ -156,8 +156,8 @@ Until then this line renders nothing.
 
 <details>
 <summary><b>Click to expand</b></summary>
-
-
+<br/>
+    
 - 🎯 Data Analytics Job Simulation — **Deloitte**
 - 🎯 TCS iON Career Edge – Young Professional — **TCS iON**
 - 🎯 Business Email Writing: Communication Skill For Work — **Udemy & Infosys Springboard**

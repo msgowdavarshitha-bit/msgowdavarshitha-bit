@@ -1,21 +1,22 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:334155,100:D6B98C&height=220&section=header&text=Varshitha%20M%20S&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Machine%20Learning%20%7C%20Full-Stack%20Development%20%7C%20Generative%20AI&descSize=15&descAlignY=57&animation=fadeIn" width="100%" alt="Varshitha M S profile banner"/>
-
-<a href="https://my-portfolio-jet-one-45.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-D6B98C?style=for-the-badge&logo=vercel&logoColor=111827" alt="Portfolio"/>
-</a>
-<a href="https://linkedin.com/in/varshitha-m-s-684107376">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-334155?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
-</a>
-<a href="mailto:varshithams02@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-0F766E?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,55:334155,100:D6B98C&height=220&section=header&text=Varshitha%20M%20S&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Varshitha M S profile banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=D6B98C&center=true&vCenter=true&width=700&lines=Building+practical+software+solutions;Exploring+Machine+Learning+and+Generative+AI;Developing+with+Python+and+React;Turning+ideas+into+working+applications" alt="Developer introduction"/>
+<a href="https://my-portfolio-jet-one-45.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-D6B98C?style=for-the-badge&logo=vercel&logoColor=111827" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/varshitha-m-s-684107376">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-334155?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:msgowdavarshitha@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=D6B98C&center=true&vCenter=true&width=700&lines=Software+Engineer+Intern;Building+Practical+Software+Solutions;Exploring+Machine+Learning+%26+Generative+AI;Learning%2C+Building%2C+Improving" alt="Developer introduction"/>
 
 </div>
 
@@ -23,15 +24,41 @@
 
 ## About Me
 
-I'm a Computer Science and Engineering graduate interested in building intelligent applications that combine machine learning, software engineering, and thoughtful user experiences.
+I'm a Computer Science and Engineering graduate passionate about software development, machine learning, and building practical technology solutions.
 
-I enjoy exploring how data-driven models and full-stack technologies can solve practical problems, from predictive systems to intelligent web applications.
+Currently, I'm working as a **Software Engineer Intern at Kaizentrix Global Solutions**, strengthening my problem-solving skills, debugging applications, and contributing to engineering tasks.
 
-- **Education:** B.E. in Computer Science and Engineering, Government Engineering College, M H Halli, affiliated with VTU.
-- **Experience:** Completed a three-month internship in Machine Learning and Generative AI at Contriver.
-- **Interests:** Machine Learning, Generative AI, Computer Vision, and Full-Stack Development.
-- **Development focus:** Building reliable applications with Python, React, databases, and REST APIs.
-- **Currently exploring:** Generative AI applications, model evaluation, and better software design practices.
+Previously, I completed a three-month internship at Contriver in Machine Learning and Generative AI, gaining hands-on project experience.
+
+- **Education:** B.E. in Computer Science and Engineering
+- **CGPA:** 8.86 / 10
+- **Current Role:** Software Engineer Intern at Kaizentrix Global Solutions
+- **Previous Experience:** Machine Learning & Generative AI Intern at Contriver
+- **Interests:** Python Development, Machine Learning, Generative AI, and Software Engineering
+- **Focus:** Writing clean solutions, improving logical thinking, and continuously learning through practical projects.
+
+I believe in learning by building, improving through feedback, and turning technical concepts into useful applications.
+
+---
+
+## Experience
+
+### Software Engineer Intern | Kaizentrix Global Solutions
+
+*October 2026 – Present*
+
+- Strengthening problem-solving and logical thinking through coding challenges and debugging.
+- Breaking down problems and implementing clean, maintainable solutions.
+- Contributing to software engineering tasks in a collaborative development environment.
+- Learning how engineering teams manage requirements, code reviews, and delivery.
+
+### Machine Learning & Generative AI Intern | Contriver
+
+*February 2026 – May 2026*
+
+- Completed a three-month internship in Machine Learning, Generative AI, and Full-Stack Development.
+- Gained hands-on experience through practical projects.
+- Applied machine learning and text-processing concepts to application development.
 
 ---
 
@@ -43,13 +70,15 @@ I enjoy exploring how data-driven models and full-stack technologies can solve p
 
 ### Train Delay Propagation Model
 
-**Python · Machine Learning · Flask · React · MongoDB**
+**Python · Machine Learning · REST APIs**
 
-A predictive railway application designed to estimate train delays and help passengers explore train information and alternative transportation options.
+An ML-driven railway delay prediction system designed to analyze train delays and recommend alternative transportation options.
 
-- Delay prediction using machine learning.
-- Train search and journey-planning interface.
-- Full-stack application architecture.
+- Predictive delay analysis.
+- Passenger-oriented journey planning.
+- Alternative transportation recommendations.
+
+**Reported outcome:** Up to 40% improvement in travel-planning efficiency.
 
 </td>
 <td width="50%" valign="top">
@@ -58,73 +87,75 @@ A predictive railway application designed to estimate train delays and help pass
 
 **Python · TF-IDF · Cosine Similarity**
 
-A text-processing project that explores generating or retrieving relevant product descriptions using text features and similarity scoring.
+A machine learning-based application designed to automate product description generation and reduce manual content preparation.
 
-- Text preprocessing and feature extraction.
+- Text processing and feature extraction.
 - TF-IDF vectorization.
-- Cosine similarity for matching descriptions.
+- Cosine similarity-based text matching.
+
+**Reported outcome:** Nearly 70% reduction in manual content effort.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Smart Identification and Edibility Detection
+### Smart Identification and Edibility Detection System
 
-**Python · Flask · TensorFlow · OpenCV · YOLOv8**
+**Python · CNN**
 
-An image-based identification project focused on recognizing produce and exploring edibility-related classification.
+A deep-learning-based system designed to identify fruits and vegetables, detect ripeness, and provide nutritional guidance and warning alerts.
 
-- Computer vision and image processing.
-- Deep-learning-based identification.
-- Flask application integration.
+- Image-based identification.
+- Ripeness assessment.
+- Nutritional guidance and alerts.
 
 </td>
 <td width="50%" valign="top">
 
 ### Project Topic Recommendation System
 
-**Python · React · MongoDB**
+**Python · HTML · CSS · MongoDB**
 
-A recommendation-oriented application designed to help users discover project topics based on their interests.
+A web platform that recommends project topics based on users' interests.
 
-- Interest-based recommendations.
-- Frontend and backend integration.
-- Database-backed application design.
+- Personalized topic recommendations.
+- User-focused web interface.
+- Database-backed application.
+
+**Reported outcome:** 65% reduction in topic-selection time.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Care Cloud — Donation Platform
+### Care Cloud — Donation Management Website
 
-**HTML · CSS · JavaScript**
+**HTML · CSS · REST APIs**
 
-A web application concept for connecting donors and beneficiaries and organizing donation-related information.
+A digital platform designed to connect donors and beneficiaries and organize donation tracking.
 
-- User-focused interface.
-- Organized donation information.
-- Accessible web design.
+- Donation management.
+- Centralized tracking.
+- Simplified coordination.
 
 </td>
 <td width="50%" valign="top">
 
-### Shortcut Key Saver
+### Continuous Learning & Problem Solving
 
-**React · Node.js · MongoDB**
+**Python · Logical Thinking · Debugging**
 
-A web application for organizing, saving, and retrieving useful keyboard shortcuts.
+Developing programming fundamentals through coding practice, algorithmic thinking, and debugging exercises.
 
-- Create, read, update, and delete operations.
-- Searchable shortcut collection.
-- Full-stack web development.
+- Breaking down complex problems.
+- Writing and testing solutions.
+- Improving code clarity and correctness.
 
 </td>
 </tr>
 </table>
-
-> Add repository links to these projects once their corresponding GitHub repositories are available. Keep only projects that you can confidently explain and demonstrate in an interview.
 
 ---
 
@@ -132,77 +163,110 @@ A web application for organizing, saving, and retrieving useful keyboard shortcu
 
 <div align="center">
 
-### Programming Languages
+### Programming
 
-<img src="https://skillicons.dev/icons?i=python,c,js&theme=dark" alt="Python, C and JavaScript"/>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=D6B98C" alt="Python"/>
 
-### Web Development
+### Web & API Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask&theme=dark" alt="Web development technologies"/>
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3"/>
+<img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge&logo=fastapi&logoColor=D6B98C" alt="REST APIs"/>
 
-### Machine Learning and Data
+### Machine Learning & Data Processing
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="Machine learning technologies"/>
+<img src="https://img.shields.io/badge/TF--IDF-111827?style=for-the-badge&logo=googlescholar&logoColor=D6B98C" alt="TF-IDF"/>
+<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas"/>
+<img src="https://img.shields.io/badge/CNN-111827?style=for-the-badge&logoColor=D6B98C" alt="Convolutional Neural Networks"/>
 
-### Databases and Developer Tools
+### Database & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,pycharm&theme=dark" alt="Databases and developer tools"/>
+<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter Notebook"/>
+<img src="https://img.shields.io/badge/LaTeX-111827?style=for-the-badge&logo=latex&logoColor=D6B98C" alt="LaTeX"/>
 
 </div>
 
-**Additional skills:** Generative AI, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TF-IDF, cosine similarity, REST APIs, and Jupyter Notebook.
-
 ---
 
-## Experience
+## Education
 
-### Machine Learning & Generative AI Intern — Contriver
+**Bachelor of Engineering — Computer Science & Engineering**
 
-Completed a three-month internship focused on Machine Learning and Generative AI.
+Government Engineering College, M H Halli, Hassan
 
-- Worked on practical technical tasks and project-based learning.
-- Explored Python, machine learning workflows, and relevant AI libraries.
-- Developed a stronger understanding of applying technical concepts to software projects.
+- Graduation: 2026
+- CGPA: 8.86 / 10
+
+**Higher Secondary Education — PCMB**
+
+Brigade PU College, Hassan
+
+- 2020 – 2022
+- Score: 93%
 
 ---
 
 ## Certifications
 
+- Microsoft SOAR – AI to Aspire (NSQF Level 4) — Microsoft × NCVET × Skill India
 - Data Analytics Job Simulation — Deloitte
-- AI for Beginners — HP LIFE Foundation
-- TCS iON Career Edge – Young Professional
-- Business Email Writing: Communication Skill for Work
-- Microsoft Skill Fest 2026 — Achievement badge
-
-*Add certificate verification links wherever available.*
+- TCS iON Career Edge – Young Professional — Tata Consultancy Services
+- Business Email Writing: Communication Skill for Work — Udemy & Infosys Springboard
+- Introduction to Generative AI Studio
+- Introduction to Data Analytics — Google Cloud & Simplilearn SkillUp
 
 ---
 
-## GitHub Activity
+## GitHub Statistics
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=msgowdavarshitha-bit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D6B98C&icon_color=0F766E&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics"/>
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=msgowdavarshitha-bit&hide_border=true&background=0D1117&ring=D6B98C&fire=0F766E&currStreakLabel=D6B98C&sideLabels=E5E7EB&dates=94A3B8" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=msgowdavarshitha-bit&bg_color=0D1117&color=E5E7EB&line=D6B98C&point=0F766E&area=true&hide_border=true" alt="GitHub contribution activity"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=msgowdavarshitha-bit&bg_color=0D1117&color=E5E7EB&line=D6B98C&point=0F766E&area=true&hide_border=true" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
+## Beyond Coding
+
+- **Languages:** Kannada, English, and Hindi.
+- **Strengths:** Communication, teamwork, leadership, adaptability, time management, and problem-solving.
+- **Mindset:** Continuous learning, disciplined execution, and practical problem-solving.
+
+---
+
 ## Let's Connect
 
-I'm interested in opportunities involving software development, machine learning, AI applications, and full-stack engineering.
+I'm interested in growing as a software engineer and contributing to meaningful software, machine learning, and AI projects.
 
 <div align="center">
 
-<a href="https://my-portfolio-jet-one-45.vercel.app/">Portfolio</a> ·
-<a href="https://linkedin.com/in/varshitha-m-s-684107376">LinkedIn</a> ·
-<a href="https://github.com/msgowdavarshitha-bit">GitHub</a> ·
-<a href="mailto:varshithams02@gmail.com">Email</a>
+<a href="https://github.com/msgowdavarshitha-bit">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+
+<a href="https://linkedin.com/in/varshitha-m-s-684107376">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-334155?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+</a>
+
+<a href="https://my-portfolio-jet-one-45.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore%20Projects-D6B98C?style=for-the-badge&logo=vercel&logoColor=111827" alt="Portfolio"/>
+</a>
+
+<a href="mailto:msgowdavarshitha@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-0F766E?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
+</a>
 
 <br/><br/>
 
@@ -210,6 +274,6 @@ I'm interested in opportunities involving software development, machine learning
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6B98C,100:111827&height=100&section=footer" width="100%" alt="Profile footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6B98C,100:111827&height=110&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
